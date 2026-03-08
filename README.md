@@ -2,7 +2,7 @@
 
 **A browser-based 3D real estate configurator — explore properties, customize materials in real time, and request quotes directly from the owner.**
 
-🔒 **Status:** Private (Client Deployment)
+🔒 **Status:** Live Link : https://kayaa.studio/
 
 ---
 
@@ -77,18 +77,6 @@ Built with Unity and C#, deployed on the web via WebGL.
 ## Problem it solves
 
 Property buying relies on flat photos and static floor plans. Buyers can't visualize how a space feels, compare material choices, or communicate preferences clearly. Property owners lose leads who can't picture themselves in the space. Kayaa Studio turns passive listings into interactive experiences — explore, customize, and request a quote without a site visit or software download.
-
----
-
-## Getting Started
-
-```bash
-git clone https://github.com/xenonJr/kayaa-studio.git
-
-# Open in Unity 2022.3+ LTS
-# Build: File → Build Settings → WebGL → Build
-# Serve locally or deploy to any static hosting
-```
 
 ---
 
